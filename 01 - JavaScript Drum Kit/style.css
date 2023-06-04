@@ -17,3 +17,23 @@ body {
   gap: 2.2rem;
   text-align: center;
 }
+
+.box {
+  background-color: rgba(0, 0, 0, .6);
+  border: 5px solid black;
+  border-radius: .3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 110px;
+}
+
+.box-key {
+  font-size: 2.4rem;
+  color: #f1f5f9;
+}
+
+.box-sound {
+  color: #ffd43b;
+}
