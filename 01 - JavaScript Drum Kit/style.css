@@ -3,3 +3,17 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-image: url(background.jpg);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  gap: 2.2rem;
+  text-align: center;
+}
