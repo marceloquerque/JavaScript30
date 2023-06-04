@@ -8,7 +8,6 @@ document.addEventListener('keydown', (event) => {
 });
 
 
-
 // pseudocode
 // add an event listener, that listens for keypress event
 // when a key is pressed, get the key value 
